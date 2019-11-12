@@ -3,3 +3,5 @@ First editing through Project1
 Second editing through Project 2
 Third editing through Project 3
 New line from project 3
+diff demo
+Changing for demo of merge conflict through project3
