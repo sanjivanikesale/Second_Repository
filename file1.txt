@@ -4,4 +4,6 @@ Second editing through Project 2
 Third editing through Project 3
 New line from project 3
 diff demo
-Changing for demo of merge conflict through project3 2nd demo
+Changing for demo of merge conflict through project3 2nd demo conflict resolved
+merge conflict resolving project 2
+Sanjivani
