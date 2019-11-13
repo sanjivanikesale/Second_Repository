@@ -8,3 +8,4 @@ Changing for demo of merge conflict through project3 2nd demo conflict resolved
 merge conflict resolving project 2
 Sanjivani
 revert demo
+revert demo second line
