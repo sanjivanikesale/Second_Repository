@@ -7,5 +7,5 @@ diff demo
 Changing for demo of merge conflict through project3 2nd demo conflict resolved
 merge conflict resolving project 2
 Sanjivani
-Merge conflict
-Changes from fourth branch
+revert demo
+revert demo second line
